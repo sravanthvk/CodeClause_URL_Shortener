@@ -10,7 +10,7 @@ root.title("URL Shortener")
 root.configure(background="black")
 
 # Add a heading with custom font style
-heading = tk.Label(root, text="URL Shortener", font=("Times", 50, "bold"), fg="White", bg="black")
+heading = tk.Label(root, text="URL Shortener by Sravanth", font=("Times", 50, "bold"), fg="White", bg="black")
 heading.pack(pady=20)
 heading1 = tk.Label(root, text="~convert your larger URL's into shorter ones", font=("Comic Sans MS2", 20), fg="White", bg="black")
 heading1.pack(pady=10)
